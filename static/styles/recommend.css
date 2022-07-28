@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Righteous&family=Saira:ital@1&display=swap');
+@import 'index.css';
+
+.form-control{
+    border: 2px solid rgba(4, 20, 54, 0.953);
+    border-radius: 20px;
+    height: 8vh;
+}
+h1{
+    font-style: italic;
+}
+.btn{
+    background-color: darkorange;
+}
+.btn:hover{
+    background-color: rgb(10, 10, 86);
+}
+/* 
+.text-white{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: rgb(227, 227, 227);
+}
+.navbar{
+    background-color: #051b34;
+    display: flex;
+    flex-wrap: wrap;
+}
+.list{
+margin-left: 60px;
+}
+
+a{
+    color: rgb(171, 255, 255);
+    font-size: 15px;
+}
+a:hover{
+    border-radius: 15px;
+    color: green;
+}
+a:active{
+    color:yellow;
+}
+ul li{
+     list-style: none;
+}
+
+.navbar-brand{
+    color:rgb(255, 255, 255);
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+}
+h1{
+    font-family: 'Saira', sans-serif;
+    color: white;
+    font-weight: bold;
+
+}
+nav img{
+    height: 10vh;
+    width: 8vw;
+}
+.card-body{
+    border: 1px solid rgb(4, 0, 128);
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   margin: 10px;
+   background:#ffffff;
+   padding:5px;
+   border-radius: 5px;
+   text-align: center;
+} */
